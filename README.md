@@ -1,4 +1,4 @@
-# Blackview-BV9900-Pro-Factory-Mode-APK-FLIR-Test--Decompiled
+# Blackview-BV9900-Pro-Factory-Mode-APK-FLIR-Lepton-2-Test--Decompiled
 Blackview BV9900 Pro Factory Mode APK (hardware test Thermal Test Flir Test etc) - Decompiled
 
 
